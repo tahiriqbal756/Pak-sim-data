@@ -217,7 +217,8 @@ input[type="submit"]:hover {
 <body>
     <div class="glow-container"></div>
     <div class="container">
-        <h1>𝗣𝗮𝗸 𝗦𝗶𝗺 𝗗𝗮𝘁𝗮</h1>
+        <h1>𝕊𝕚𝕞 𝕕𝕒𝕥𝕒 ℍ𝔸ℂ𝕂𝔼ℝ 𝕋𝔽
+            923321709972</h1>
         <form method="post">
             <div class="form-group">
                 <label for="mobile">Enter Mobile Number</label>
@@ -246,7 +247,7 @@ input[type="submit"]:hover {
                     echo '<button class="copy-button" onclick="copyResponse()">Copy</button>';
                     echo '</div>';
                 } else {
-                    echo '<p>No Data Found</p>';
+                    echo '<p>No Data Found by Hacker tf WhatsApp number 923321709972</p>';
                 }
             } else {
                 echo '<p>Please enter a valid mobile number.</p>';
@@ -266,7 +267,7 @@ input[type="submit"]:hover {
         }
         ?>
     </div>
-    <div class="developer">𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 ↬𝗠𝘂𝘀𝗮 𝗥𝗮𝗷𝗽𝘂𝘁</div>
+    <div class="developer">𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 ↬ℍ𝔸ℂ𝕂𝔼ℝ 𝕋𝔽</div>
     <div class="telegram-button"></div>
     <script>
         function copyResponse() {
